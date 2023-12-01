@@ -1,0 +1,16 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/adriangroening/Desktop/CTAFV2",
+  "node.version": "v20.9.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "/Users/adriangroening/Desktop/CTAFV2/frontend",
+  "connect.javaSourceFolder": "/Users/adriangroening/Desktop/CTAFV2/src/main/java",
+  "javaResourceFolder": "/Users/adriangroening/Desktop/CTAFV2/src/main/resources",
+  "connect.applicationProperties": "/Users/adriangroening/Desktop/CTAFV2/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/adriangroening/Desktop/CTAFV2/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/Users/adriangroening/Desktop/CTAFV2/frontend/generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
